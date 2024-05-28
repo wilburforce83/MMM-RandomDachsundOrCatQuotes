@@ -14,7 +14,7 @@ MMM-RandomDachsundOrCatQuotes is a Magic Mirror module that displays random quot
 2. Clone this repository:
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/wilburforce83/MMM-RandomDachsundOrCatQuotes.git
    ```
 
 3. Install dependencies:
